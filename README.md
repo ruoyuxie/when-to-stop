@@ -2,9 +2,9 @@
 
 [![Website](https://img.shields.io/badge/Website-Project%20Page-red)](https://royxie.com/when-to-stop-project)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![arXiv](https://img.shields.io/badge/arXiv-2406.15968-b31b1b.svg)](https://arxiv.org/pdf/2502.01025)
+[![arXiv](https://img.shields.io/badge/arXiv-2406.15968-b31b1b.svg)](https://arxiv.org/abs/2502.01025)
 
-This is the official repository for [Knowing When to Stop: Dynamic Context Cutoff for Large Language Models](https://royxie.com/when-to-stop-project). The repo contains the original implementation on the evaluation dataset.
+This is the official repository for [Knowing When to Stop: Dynamic Context Cutoff for Large Language Models](https://arxiv.org/pdf/2502.01025). The repo contains the original implementation on the evaluation dataset.
 
 ## 📅 Coming Soon
 
