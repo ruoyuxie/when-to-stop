@@ -41,6 +41,4 @@ If you find our implementation or paper helpful, please consider citing:
     year={2025}
 }
 ```
-
-### Contact
 For questions or issues, please open an [issue](https://github.com/ruoyuxie/when-to-stop/issues) on GitHub or [email](https://royxie.com/) directly.
