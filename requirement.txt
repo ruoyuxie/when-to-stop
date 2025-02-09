@@ -1,0 +1,17 @@
+wheel
+torch
+transformers
+openai
+together
+tqdm
+numpy==1.26.4
+pandas
+matplotlib
+seaborn
+scikit-learn==1.3.0
+xgboost==1.7.3
+lightgbm==3.3.5
+catboost==1.2
+scipy
+nltk
+accelerate>=0.26.0
