@@ -10,7 +10,7 @@ This is the official repository for [Knowing When to Stop: Dynamic Context Cutof
 ### Environment
 `Python 3.10` is recommended. Before running the code, export your OpenAI API key : 
 ```bash
-export OPENAI_API_KEY="<your open ai api key>".
+export OPENAI_API_KEY="<your OpenAI api key>".
 ```
 
 ### Installation
@@ -30,8 +30,9 @@ To adjust configuration parameters, such as the `number of data points`, `number
 src/config.py
 ```
 
+
 ### Citation 
-⭐ If you find our implementation or paper helpful, please consider citing:
+If you find our implementation or paper helpful, please consider citing:
 ```latex
 @article{xie2025cutoff,
     title={Knowing When to Stop: Dynamic Context Cutoff for Large Language Models},
@@ -39,3 +40,7 @@ src/config.py
     journal={https://arxiv.org/abs/2502.01025},
     year={2025}
 }
+```
+
+### Contact
+For questions or issues, please open an [issue](https://github.com/ruoyuxie/when-to-stop/issues) on GitHub or [email](https://royxie.com/) directly.
