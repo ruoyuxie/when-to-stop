@@ -5,10 +5,10 @@
 ## 📝 Overview
 This is the official repository for [Knowing When to Stop: Efficient Context Processing via Latent Sufficiency Signals](https://arxiv.org/abs/2502.01025) (NeurIPS 2025). The repo contains the original implementation of the paper, including both the datasets and source code. Check out the project [website](https://royxie.com/when-to-stop-project/) for more information.
 
-⭐ If you find our implementation or paper helpful, please consider citing our work ⭐ :
+⭐ If you find our work helpful, please consider citing ⭐ :
 ```latex
 @article{xie2025when,
-    title={Language Models (Mostly) Know When to Stop Reading},
+    title={Knowing When to Stop: Efficient Context Processing via Latent Sufficiency Signals},
     author={Xie, Roy and Wang, Junlin and Rosu, Paul and Deng, Chunyuan and Sun, Bolun and Lin, Zihao and Dhingra, Bhuwan},
     journal={Advances in Neural Information Processing Systems},
     year={2025}
