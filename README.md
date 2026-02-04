@@ -1,9 +1,9 @@
-# Language Models (Mostly) Know When to Stop Reading
+# Knowing When to Stop: Efficient Context Processing via Latent Sufficiency Signals
 [![Website](https://img.shields.io/badge/Website-Project%20Page-red)](https://royxie.com/when-to-stop-project) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![arXiv](https://img.shields.io/badge/arXiv-2406.15968-b31b1b.svg)](https://arxiv.org/abs/2502.01025)
 
 
 ## 📝 Overview
-This is the official repository for [Language Models (Mostly) Know When to Stop Reading](https://arxiv.org/abs/2502.01025) (NeurIPS 2025). The repo contains the original implementation of the paper, including both the datasets and source code. Check out the project [website](https://royxie.com/when-to-stop-project/) for more information.
+This is the official repository for [Knowing When to Stop: Efficient Context Processing via Latent Sufficiency Signals](https://arxiv.org/abs/2502.01025) (NeurIPS 2025). The repo contains the original implementation of the paper, including both the datasets and source code. Check out the project [website](https://royxie.com/when-to-stop-project/) for more information.
 
 ⭐ If you find our implementation or paper helpful, please consider citing our work ⭐ :
 ```latex
